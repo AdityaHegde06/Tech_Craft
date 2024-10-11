@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tech_Craft</string>
+    <string name="bold">Bold</string>
+    <string name="save_code">Save Code</string>
+    <string name="snippet_description">Snippet Description</string>
+    <string name="code">Code</string>
+    <string name="tittle">Tittle</string>
+    <string name="title">title</string>
+    <string name="language">Language</string>
+</resources>
